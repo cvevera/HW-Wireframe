@@ -5,8 +5,7 @@ body {	font-family: Arial, Helvetica, sans-serif;
 		font-size: 18px;
 		text-align: center;
 		vertical-align: center;
-		margin-left: 100px;
-		margin-right: 150px;
+		margin:0 auto;
 		box-sizing: border-box;
 }
 
